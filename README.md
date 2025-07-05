@@ -32,3 +32,6 @@ How To Search an Element in a List
 https://allstq.com/python-coding-interview-questions-and-answers-for-testers/
 
 Write a program to find the second largest number in a list
+
+![image](https://github.com/user-attachments/assets/1595996a-d01c-4172-bd99-cb0af723e737)
+
